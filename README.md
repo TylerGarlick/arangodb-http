@@ -1,2 +1,5 @@
-# arangodb-bun
-Basic HTTP Abstraction on Bun.js
+# arangodb-http
+
+Basic HTTP Abstraction for ArangoDB's REST API
+
+
